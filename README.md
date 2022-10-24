@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omri Ben-Hur</h1>
 <h3 align="center">A passionate DevOps engineer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omribenhur&label=Profile%20views&color=0e75b6&style=flat" alt="omribenhur" /> </p>
 
 - 🔭 I’m currently working on **DevOps projects**
 
